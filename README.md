@@ -1,11 +1,12 @@
 # FetchRewards
-Application for pixel plotting
+Application for pixel plotting:
 
 Requirements:
 Docker
 
 How to run:
-docker build -t FetchRewards .
+(go into docker file directory) 
+docker build -t fetchrewards . (make sure to add the period)
 docker run -it --rm --network host --name FetchRewards-Running FetchRewards
 
 Then open input.html in your browser
