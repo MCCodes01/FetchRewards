@@ -2,10 +2,10 @@
 Application for pixel plotting:
 
 Requirements:
-Docker
+Docker and Python3
 
 Step 1: 
-Make sure Docker is installed
+Make sure Docker and Python3 are installed
 
 Step 2:
 How to run:
