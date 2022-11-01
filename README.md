@@ -13,11 +13,11 @@ How to run:
 
 Next:
 In the Command line Run the following command:
-docker build -t fetchrewards . (make sure to add the period and that it is all lowercase)
+sudo docker build -t fetchrewards . (make sure to add the period and that it is all lowercase, use sudo to elimate permission errors)
 
 Step 3:
 In the Command line Run the following command:
-docker run -it --rm --network host --name fetchrewards-Running fetchrewards
+docker run -it --rm --network host --name fetchrewards-Running fetchrewards (use sudo to elimate permission errors)
 
 Step4:
 Enter the local webaddress and drag "input.html" file into the webpage
