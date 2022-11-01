@@ -31,7 +31,7 @@ Corners: [(X1, Y1), (X2, Y2), (X3, Y3), (X4, Y4)] (must be an array of touples)
 Dimensions: (H, W) (touple)
 
 Note: 
-The input must be taken as a touple inputting x,y will not work
+The input must be taken as a touple inputting xy will not work
 
 EX Input:
 Corners: [(1,1}, (1,3),(3,1),(3,3)]
