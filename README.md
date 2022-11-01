@@ -43,3 +43,5 @@ Note:
 The input for the Dimensions MUST be an integer, otherwise you will recieve an "internal server error". However the Corners can be a floating point
 
 Note: reccomended to run through a Linux enviroment for optimal success
+
+Note: Make sure to quic Docker before attempting to run again (CTRL C)
