@@ -9,7 +9,9 @@ Make sure Docker is installed
 
 Step 2:
 How to run:
-(oppen a terminal and cd into the filepath of the Docker Directory)
+(open a terminal and cd into the filepath of the Docker Directory)
+
+Next:
 In the Command line Run the following command:
 docker build -t fetchrewards . (make sure to add the period and that it is all lowercase)
 
