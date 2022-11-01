@@ -32,3 +32,6 @@ Dimensions: (H, W)
 
 Note: 
 The input must be taken as a touple inputting x,y will not work
+
+Note: 
+The input for the Dimensions MUST be an integer, otherwise you will recieve an "internal server error". However the Corners can be a floating point
